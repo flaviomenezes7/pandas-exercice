@@ -1,2 +1,1 @@
-# pandas-exercice
-# pandas-exercice
+Repository for storing my apprenticeship.
